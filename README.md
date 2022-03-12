@@ -6,3 +6,36 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 This project was bootstrapped with Create React App.
 
+## Github: https://github.com/Tyreezew/adventure-time
+## Deployed: https://scholastic-book-fair.herokuapp.com
+
+# User Story
+
+- AS AN avid reader
+- I WANT to search for new books to read
+- SO THAT I can keep a list of books to purchase
+
+# Installation 
+
+
+# Usage
+
+Application allows users to search books with keywords.
+Users are able to create an account when providing user name, email and password.
+Logged in users will are able to save their favorite books as well as delete them.
+Saved books are stored in their account, so next time they login, the books are still in their account to be viewed.
+
+# Technologies Use
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* Heroku
+* dotEnv
+
+# Contributors
+
+# Questions
+
+
