@@ -16,7 +16,7 @@ This project was bootstrapped with Create React App.
 - SO THAT I can keep a list of books to purchase
 
 # Installation 
-
+See client README.md for all of installation and strating scripts.
 
 # Usage
 
@@ -35,7 +35,8 @@ Saved books are stored in their account, so next time they login, the books are 
 * dotEnv
 
 # Contributors
+Checkout Installation section for contributing.
 
 # Questions
-
+If you have any questions, feel free to reach me @ wedding5@msu.edu! Checkout more of my repos on Github @ Tyreezew
 
