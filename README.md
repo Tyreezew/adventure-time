@@ -16,7 +16,7 @@ This project was bootstrapped with Create React App.
 - SO THAT I can keep a list of books to purchase
 
 # Installation 
-See client README.md for all of installation and strating scripts.
+See client README.md for all of installation and starting scripts.
 
 # Usage
 
