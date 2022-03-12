@@ -7,6 +7,7 @@ const { authMiddleware } = require('./utils/auth');
 const { typeDefs, resolvers } = require('./schemas');
 
 //const routes = require('./routes');
+const MONGODB_URI = process.env.MONGODB_URI
 
 const app = express();
 const PORT = process.env.PORT || 3001;
